@@ -26,4 +26,6 @@ https://projeto-alura-plus-gold-kappa.vercel.app/
 
 ### Wallace Henrique Batista Santos
 
-### Linkedin: www.linkedin.com/in/wallace-batista-375205281
+## Linkedin: 
+
+### www.linkedin.com/in/wallace-batista-375205281
