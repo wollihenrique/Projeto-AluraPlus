@@ -14,4 +14,14 @@
 
 * Grid
 
-  
+## Oque aprendi: 
+
+Neste projeto pude colocar em prática um pouco mais de HTML e CSS, aprendi sobre display inline, block, e inline-block; um pouco sobre Grid e Flexbox e entre outros. O projeto não está completamente responsivo, mas tenho um Projeto-Portfolio aqui na minha conta onde pude colocar em prática a responsividade de projetos. Este projeto foi mais uma forma de praticar tudo oque já havia aprendido e implementar novos aprendizados, espero que possam aprender alguma coisa nova com este repositório. 
+
+## Deploy do Projeto: https://projeto-alura-plus-gold-kappa.vercel.app/
+
+## Feito por:
+
+### Wallace Henrique Batista Santos
+
+### Linkedin: www.linkedin.com/in/wallace-batista-375205281
